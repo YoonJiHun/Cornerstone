@@ -1,0 +1,8 @@
+{
+    "host": "your_host_here",
+    "port": 3306,
+    "user": "your_username",
+    "password": "encrypted_password_here",
+    "database": "your_database"
+}
+
